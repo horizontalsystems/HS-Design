@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ltc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ltc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,0 C5.373,0 0,5.373 0,12 C0,18.628 5.373,24 12,24 C18.627,24 24,18.628 24,12 C24,5.373 18.627,0 12,0 Z M16.884,17.552 L10.717,17.552 L6.967,17.552 L7.586,15.177 L7.948,13.786 L6.499,14.312 L6.965,12.521 L8.414,11.995 L10.092,5.552 L13.842,5.552 L12.556,10.491 L14.342,9.844 L13.876,11.635 L12.089,12.283 L11.336,15.177 L17.503,15.177 L16.884,17.552 Z" id="Shape" fill="#8A8A8F" fill-rule="nonzero"></path>
+    </g>
+</svg>

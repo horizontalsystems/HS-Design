@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>xmr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="xmr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,0 C5.374,0 0,5.374 0,12 C0,13.325 0.215,14.599 0.611,15.791 L4.2,15.791 L4.2,5.693 L12,13.493 L19.8,5.693 L19.8,15.79 L23.389,15.79 C23.785,14.598 24,13.324 24,11.999 C24,5.373 18.626,0 12,0" id="Shape" fill="#8A8A8F" fill-rule="nonzero"></path>
+        <path d="M10.206,15.287 L6.802,11.883 L6.802,18.236 L1.746,18.236 C3.852,21.692 7.657,24 11.999,24 C16.341,24 20.146,21.692 22.253,18.236 L17.197,18.236 L17.197,11.883 L13.793,15.287 L12,17.08 L10.206,15.287 L10.206,15.287 L10.206,15.287 Z" id="Shape" fill="#8A8A8F" fill-rule="nonzero"></path>
+    </g>
+</svg>

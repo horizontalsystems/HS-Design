@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>zil</title>
+    <desc>Created with Sketch.</desc>
+    <g id="zil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#8A8A8F" fill-rule="nonzero">
+            <path d="M12,24 C5.37225,24 0,18.62775 0,12 C0,5.37225 5.37225,0 12,0 C18.62775,0 24,5.37225 24,12 C24,18.62775 18.62775,24 12,24 Z M8.9175,4.5 L6.75,5.463 L6.75,7.63575 L12.51975,10.4385 L6.75,13.296 L6.75,15.438 L15.0855,19.45125 L17.21925,18.4905 L17.21925,11.77725 L15.0855,12.7485 L15.0855,17.31225 L9.4245,14.55975 L15.0855,11.637 L17.21925,10.67625 L17.2095,8.53125 L8.9175,4.5 Z" id="Shape"></path>
+            <polygon id="Path" opacity="0.8" points="6.75 5.46075 15.0855 9.498 17.21925 8.5365 8.91825 4.5"></polygon>
+            <path d="M15.0855,9.48825 L17.21925,8.5275 L17.21925,10.67625 L15.0855,11.637 L15.0855,9.48825 Z M15.0855,19.45125 L15.0855,12.7485 L17.21925,11.77725 L17.21925,18.4905 L15.0855,19.45125 Z" id="Shape" opacity="0.5"></path>
+        </g>
+    </g>
+</svg>
