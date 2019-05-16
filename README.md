@@ -1,7 +1,7 @@
 # HS-Design
 Horizontal Systems Design Elements
 
-## Bank Wallet 
+## UNSTOPPABLE WALLET
 * iOS Screens
   https://scene.zeplin.io/project/5c7cbfa0db2d7d520bedb542
 
