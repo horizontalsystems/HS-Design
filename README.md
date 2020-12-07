@@ -1,6 +1,6 @@
 # HS-Design
 
-This repository was created for ux/ui design tasks, where you can track which problems are designed and can be implemented in our products.
+This repository was created for ux/ui design tasks, where you can track which issues are designed and can be implemented in our products.
 
 Bellow you can download press kit if you need our brand marks and logotypes for publishing
 
@@ -38,13 +38,15 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 ---
 
 ## 🗂 Unstoppable Wallet Press Kit
-
-
 [Unstoppable Wallet Site](http://unstoppable.money)
+
+---
   
 ## 🗂 Litrex Academy Press Kit
 
 [Litrex Academy Site](http://litrex.academy)
+
+---
 
 
 ## 🗂 Definials Press Kit
