@@ -2,6 +2,8 @@
 
 This repository was created for ux/ui design tasks, where you can track which problems are designed and can be implemented in our products.
 
+Bellow you can download press kit if you need our brand marks and logotypes for publishing
+
 # 🗂 Horizontal Systems Press Kit
 
 **On Light Background**
