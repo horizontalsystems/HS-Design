@@ -1,18 +1,31 @@
+<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/hs-header-for-github.png></a>
+
 # HS-Design
-Horizontal Systems Design Elements
+This repository was created for ux/ui design tasks, where you can track which problems are designed and can be implemented in our products.
 
-## UNSTOPPABLE WALLET
+## HORIZONTAL SYSTEMS PRESS KIT
 
-* Unstoppable Wallet Logo (EPS)
+* Horizontal Systems Logo Pack
 
-  https://github.com/horizontalsystems/HS-Design/edit/master/README.md
-  https://github.com/horizontalsystems/HS-Design/blob/master/icons/unstoppable_wallet_logo_full.eps
+[Horizontal Systems Site](http://horizontalsystems.io)
 
-* iOS Screens
 
-  https://scene.zeplin.io/project/5c7cbfa0db2d7d520bedb542
+## UNSTOPPABLE WALLET PRESS KIT
 
-* Android Screens
+* Unstoppable Wallet Logo Pack
 
-  https://scene.zeplin.io/project/5c7cbfa0db2d7d520bedb542
+[Unstoppable Wallet Site](http://unstoppable.money)
+  
+## LITREX ACADEMY PRESS KIT
+
+* Litrex Academy Logo Pack
+
+[Litrex Academy Site](http://litrex.academy)
+
+
+## DEFINIALS PRESS KIT
+
+* Definials Logo Pack
+
+[Coming soon...](http://soon)
   
