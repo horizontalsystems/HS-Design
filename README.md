@@ -1,5 +1,3 @@
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/hs-header-for-github.png></a>
-
 # HS-Design
 
 This repository was created for ux/ui design tasks, where you can track which problems are designed and can be implemented in our products.
