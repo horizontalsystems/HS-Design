@@ -11,9 +11,8 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 
 <img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-light.png width="480" height="240" /></a>
 
-**[SVG](http://horizontalsystems.io)**
-**[PNG](http://horizontalsystems.io)**
-**[PDF](http://horizontalsystems.io)**
+**[SVG](/images/svg/HS-Logo-on-light.svg)**
+**[PNG](/images/HS-Logo-on-light.png)**
 
 ---
 
@@ -21,9 +20,8 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 
 <img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark.png width="480" height="240" /></a>
 
-**[SVG](http://horizontalsystems.io)**
-**[PNG](http://horizontalsystems.io)**
-**[PDF](http://horizontalsystems.io)**
+**[SVG](/images/svg/HS-Logo-on-dark.svg)**
+**[PNG](/images/HS-Logo-on-dark.png)**
 
 ---
 
@@ -31,9 +29,8 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 
 <img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-green.png width="480" height="240" /></a>
 
-**[SVG](http://horizontalsystems.io)**
-**[PNG](http://horizontalsystems.io)**
-**[PDF](http://horizontalsystems.io)**
+**[SVG](/images/svg/HS-Logo-on-green.svg)**
+**[PNG](/images/HS-Logo-on-green.png)**
 
 ---
 
