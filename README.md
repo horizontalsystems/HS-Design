@@ -15,6 +15,8 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 **[PNG](http://horizontalsystems.io)**
 **[PDF](http://horizontalsystems.io)**
 
+---
+
 * **On Dark Background**
 
 <img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark.png width="480" height="240" /></a>
@@ -22,6 +24,8 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 **[SVG](http://horizontalsystems.io)**
 **[PNG](http://horizontalsystems.io)**
 **[PDF](http://horizontalsystems.io)**
+
+---
 
 * **On Green Background**
 
@@ -31,7 +35,7 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 **[PNG](http://horizontalsystems.io)**
 **[PDF](http://horizontalsystems.io)**
 
-
+---
 
 ## 🗂 Unstoppable Wallet Press Kit
 
