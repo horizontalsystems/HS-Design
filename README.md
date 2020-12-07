@@ -4,7 +4,7 @@ This repository was created for ux/ui design tasks, where you can track which pr
 
 Bellow you can download press kit if you need our brand marks and logotypes for publishing
 
-# 🗂 Horizontal Systems Press Kit
+## 🗂 Horizontal Systems Press Kit
 
 **On Light Background**
 
@@ -34,17 +34,17 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 [Horizontal Systems Site](http://horizontalsystems.io)
 
 
-# 🗂 Unstoppable Wallet Press Kit
+## 🗂 Unstoppable Wallet Press Kit
 
 
 [Unstoppable Wallet Site](http://unstoppable.money)
   
-# 🗂 Litrex Academy Press Kit
+## 🗂 Litrex Academy Press Kit
 
 [Litrex Academy Site](http://litrex.academy)
 
 
-# 🗂 Definials Press Kit
+## 🗂 Definials Press Kit
 
 [Coming soon...](http://soon)
   
