@@ -6,21 +6,22 @@ This repository was created for ux/ui design tasks, where you can track which pr
 
 # 🗂 Horizontal Systems Press Kit
 
-- On Light Background
+**On Light Background**
 
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-light.png width="480" height="240" /></a>
 
-📥 [SVG](http://horizontalsystems.io) 📥 [PNG](http://horizontalsystems.io) 📥 [PDF](http://horizontalsystems.io)
-
-- On Dark Background
-
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark.png idth="480" height="240" /></a>
+<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-lihgt.png width="480" height="240"/></a>
 
 📥 [SVG](http://horizontalsystems.io) 📥 [PNG](http://horizontalsystems.io) 📥 [PDF](http://horizontalsystems.io)
 
-- On Green Background
+**On Dark Background**
 
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-green.png idth="480" height="240" /></a>
+<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark.png width="480" height="240" /></a>
+
+📥 [SVG](http://horizontalsystems.io) 📥 [PNG](http://horizontalsystems.io) 📥 [PDF](http://horizontalsystems.io)
+
+**On Green Background**
+
+<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-green.png width="480" height="240" /></a>
 
 📥 [SVG](http://horizontalsystems.io) 📥 [PNG](http://horizontalsystems.io) 📥 [PDF](http://horizontalsystems.io)
 
