@@ -9,28 +9,33 @@
 
 * **On Light Background**
 
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-light-prview.png width="480" height="240" /></a>
-
-**[SVG](/images/svg/HS-Logo-on-light.svg)**
-**[PNG](/images/HS-Logo-on-light.png)**
+![Preview](https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-light-preview.png)
+**[SVG LOGO](/images/svg/HS-Logo-on-light.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/images/HS-Logo-on-light.png)** &nbsp;&nbsp;
+**[SVG MARK](/images/svg/HS-Mark-on-light.svg)** &nbsp;&nbsp;
+**[PNG MARK](/images/HS-Mark-on-light.png)** &nbsp;&nbsp;
 
 ---
 
 * **On Dark Background**
 
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark-prview.png width="480" height="240" /></a>
+![Preview](https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark-preview.png)
+**[SVG LOGO](/images/svg/HS-Logo-on-dark.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/images/HS-Logo-on-dark.png)** &nbsp;&nbsp;
+**[SVG MARK](/images/svg/HS-Mark-on-dark.svg)** &nbsp;&nbsp;
+**[PNG MARK](/images/HS-Mark-on-dark.png)** &nbsp;&nbsp;
 
-**[SVG](/images/svg/HS-Logo-on-dark.svg)**
-**[PNG](/images/HS-Logo-on-dark.png)**
 
 ---
 
 * **On Green Background**
 
-<img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-green-prview.png width="480" height="240" /></a>
+![Preview](https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-green-preview.png)
+**[SVG LOGO](/images/svg/HS-Logo-on-green.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/images/HS-Logo-on-green.png)** &nbsp;&nbsp;
+**[SVG MARK](/images/svg/HS-Mark-on-green.svg)** &nbsp;&nbsp;
+**[PNG MARK](/images/HS-Mark-on-green.png)** &nbsp;&nbsp;
 
-**[SVG](/images/svg/HS-Logo-on-green.svg)**
-**[PNG](/images/HS-Logo-on-green.png)**
 
 ---
 
