@@ -6,7 +6,7 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 
 ## 🗂 Horizontal Systems Press Kit
 
-**On Light Background**
+* **On Light Background**
 
 **[SVG](http://horizontalsystems.io)**
 **[PNG](http://horizontalsystems.io)**
@@ -14,7 +14,7 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 
 <img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-light.png width="480" height="240" /></a>
 
-**On Dark Background**
+* **On Dark Background**
 
 **[SVG](http://horizontalsystems.io)**
 **[PNG](http://horizontalsystems.io)**
@@ -22,7 +22,7 @@ Bellow you can download press kit if you need our brand marks and logotypes for 
 
 <img src=https://github.com/horizontalsystems/HS-Design/blob/master/images/HS-Logo-on-dark.png width="480" height="240" /></a>
 
-**On Green Background**
+* **On Green Background**
 
 **[SVG](http://horizontalsystems.io)**
 **[PNG](http://horizontalsystems.io)**
