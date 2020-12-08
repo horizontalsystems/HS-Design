@@ -14,6 +14,7 @@
 * **On Light Background**
 
 ![Preview](/images/HS-Logo-on-light-preview.png)
+</br>
 **[SVG LOGO](/images/svg/HS-Logo-on-light.svg)** &nbsp;&nbsp;
 **[PNG LOGO](/images/HS-Logo-on-light.png)** &nbsp;&nbsp;
 **[SVG MARK](/images/svg/HS-Mark-on-light.svg)** &nbsp;&nbsp;
@@ -24,6 +25,7 @@
 * **On Dark Background**
 
 ![Preview](/images/HS-Logo-on-dark-preview.png)
+</br>
 **[SVG LOGO](/images/svg/HS-Logo-on-dark.svg)** &nbsp;&nbsp;
 **[PNG LOGO](/images/HS-Logo-on-dark.png)** &nbsp;&nbsp;
 **[SVG MARK](/images/svg/HS-Mark-on-dark.svg)** &nbsp;&nbsp;
@@ -35,6 +37,7 @@
 * **On Green Background**
 
 ![Preview](images/HS-Logo-on-green-preview.png)
+</br>
 **[SVG LOGO](/images/svg/HS-Logo-on-green.svg)** &nbsp;&nbsp;
 **[PNG LOGO](/images/HS-Logo-on-green.png)** &nbsp;&nbsp;
 **[SVG MARK](/images/svg/HS-Mark-on-green.svg)** &nbsp;&nbsp;
