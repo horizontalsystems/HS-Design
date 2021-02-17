@@ -15,6 +15,12 @@
 ## 🗂 Horizontal Systems
 [Horizontal Systems Site](http://horizontalsystems.io)
 
+---
+
+**Brand Color - #05C46B**
+
+---
+
 * **On Light Background**
 
 ![Preview](/images/HS-Logo-on-light-preview.png)
@@ -52,6 +58,12 @@
 ## 🗂 Unstoppable Wallet
 [Unstoppable Wallet Site](http://unstoppable.money)
 
+---
+
+**Brand Color - #FFBE43**
+
+---
+
 * **On Light Background**
 
 ![Preview](images/UW-Logo-on-light-preview.png)
@@ -86,8 +98,13 @@
 ![lines](/images/lines.png)
   
 ## 🗂 Litrex Academy
-
 [Litrex Academy Site](http://litrex.academy)
+
+---
+
+**Brand Color - ##FFBE43**
+
+---
 
 * **On Light Background**
 
