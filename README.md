@@ -88,7 +88,7 @@
 
 * **Monochrome**
 
-![Preview](images/UW-Logo-monochrome-preview.png)
+![Preview](images/UW-Logo-monochrome-preview2.png)
 </br>
 **[SVG LOGO](/PressKit/UW-Logo-monochrome.svg)** &nbsp;&nbsp;
 **[PNG LOGO](/PressKit/UW-Logo-monochrome.png)** &nbsp;&nbsp;
